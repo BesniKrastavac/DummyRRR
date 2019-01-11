@@ -1,4 +1,4 @@
-import {SET_SOME_ID,} from '../Actions/ActionsTypes'
+import {SET_SOME_ID,} from '../actions/ActionsTypes'
 import {ActionType,} from '../types/SomeId' // eslint-disable-line no-unused-vars
 import {StateType,} from '../types/State' // eslint-disable-line no-unused-vars
 

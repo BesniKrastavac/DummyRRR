@@ -1,4 +1,4 @@
-import {SET_DUMMY_TEXT,} from '../Actions/ActionsTypes'
+import {SET_DUMMY_TEXT,} from '../actions/ActionsTypes'
 import {ActionType,} from '../types/DummyText' // eslint-disable-line no-unused-vars
 import {NullableStateType, StateType,} from '../types/State' // eslint-disable-line no-unused-vars
 
