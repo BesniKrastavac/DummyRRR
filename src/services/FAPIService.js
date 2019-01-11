@@ -1,8 +1,8 @@
-import axios from "axios";
+import axios from 'axios'
 
 const fapi = axios.create({
-    baseURL: 'https://jsonplaceholder.typicode.com',
-    responseType: 'object'
-});
+	baseURL: 'https://jsonplaceholder.typicode.com',
+	responseType: 'object',
+})
 
-export default fapi;
+export default fapi
